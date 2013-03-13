@@ -1,0 +1,1 @@
+This is the Git for our game, any changes, updates, snippets of code, assests, models pretty much the whole thing should be added here.
